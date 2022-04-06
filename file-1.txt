@@ -1,0 +1,6 @@
+new file
+
+git init
+git status
+
+git add file name(add the file )
